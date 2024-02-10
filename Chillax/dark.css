@@ -157,7 +157,7 @@
   display: none !important;
 }
 .theme-dark .wordmark__0d178::before {
-  content: " A E O N I X";
+  content: " A e o n i x";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -172,7 +172,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark__0d178:hover:before {
-  content: "‏‏‎ A E O N I X";
+  content: "‏‏‎ A e o n i x";
   letter-spacing: 2px;
 }
 /* button design*/
@@ -718,7 +718,7 @@ span:not(.spinner-item) {
   --cl-appearance: "Dark";
 }
 #app-mount .info__755e1 .line__75801:last-child:after {
-  content: "Chillax " var(--cl-appearance) " 🎮";
+  content: "Aeonix " var(--cl-appearance) " 🎮";
   display: block;
 }
 /*custom bd window edit*/
