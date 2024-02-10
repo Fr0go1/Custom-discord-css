@@ -157,7 +157,7 @@
   display: none !important;
 }
 .theme-dark .wordmark__0d178::before {
-  content: "‏‏‎ c h i l l a x";
+  content: " A E O N I X";
   font-size: 12px;
   font-family: "Poiret one" !important;
   position: fixed;
@@ -172,7 +172,7 @@
   transition: 0.5s ease-in-out;
 }
 .wordmark__0d178:hover:before {
-  content: "‏‏‎ c h i l l a x";
+  content: "‏‏‎ A E O N I X";
   letter-spacing: 2px;
 }
 /* button design*/
