@@ -229,7 +229,7 @@
   visibility: hidden !important;
 }
 .theme-dark .placeholder_e68c63::before {
-  content: "Life is so much easier when you just take a time to chill";
+  content: "Chill out and just send it...";
   color: rgba(255, 255, 255, 0.2);
   font-family: "Poppins";
   font-size: 13px;
@@ -1584,7 +1584,7 @@ display: block;
 }
 .panels__58331 > .container_ca50b9 .flex_f5fbb7 > :not(:last-child) {
   opacity: 0% !important;
-  width: 50px;
+  width: 100px;
   transition: all 0.3s;
 }
 .panels__58331 > .container_ca50b9:hover .flex_f5fbb7 > :not(:last-child) {
